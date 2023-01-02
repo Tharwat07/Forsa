@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1023923820527",
+    "project_id": "testproject-43-226f0",
+    "storage_bucket": "testproject-43-226f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023923820527:android:bb3d0740ce241995c3481a",
+        "android_client_info": {
+          "package_name": "com.forsa.forsa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023923820527-3i6ph39uqa7m518ilkmu05bpnteupj53.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.forsa.forsa",
+            "certificate_hash": "2e64d809d10ea71d5168724a23dff62f83e3ec46"
+          }
+        },
+        {
+          "client_id": "1023923820527-kkl8n9b3qa8uctamnjkenh20ands4s4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT3Qe7I4P3LI7fVSEUryKtAfpGeoKqdJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023923820527-kkl8n9b3qa8uctamnjkenh20ands4s4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
