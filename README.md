@@ -1,4 +1,4 @@
-# active_ecommerce_flutter
+# Forsa ECommerce app
 
 This is the flutter mobile application for active ecommerce cms
 
